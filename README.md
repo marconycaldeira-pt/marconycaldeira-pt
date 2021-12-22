@@ -1,21 +1,57 @@
-# 👨🏻‍💻 [Marcony Caldeira](https://github.com/marconycaldeira/marconycaldeira) [@marconycaldeira](https://linkedin.com/in/marconycaldeira)
+<h1 align="center">Marcony Caldeira</h1>
 
-[![Linkedin Badge](https://img.shields.io/badge/-Marcony%20Caldeira-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/marconycaldeira/)](https://www.linkedin.com/in/marconycaldeira/) [![Twitter Badge](http://img.shields.io/badge/-@marconycaldeira-1ca0f1?style=social&logo=twitter&logoColor=blue&link=https://twitter.com/marconycaldeira)](https://twitter.com/marconycaldeira) [![GitHub followers](https://img.shields.io/github/followers/marconycaldeira?label=Follow&style=social)](https://github.com/marconycaldeira/?tab=follow) [![Gmail Badge](https://img.shields.io/badge/-marconycaldeira-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:marconycaldeira@gmail.com)](mailto:marconycaldeira@gmail.com) 
+<span align="center">
 
+ [![Linkedin Badge](https://img.shields.io/badge/-Marcony%20Caldeira-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/marconycaldeira/)](https://www.linkedin.com/in/marconycaldeira/) [![Instagram Badge](http://img.shields.io/badge/-@marconycaldeira-1ca0f1?style=social&logo=Instagram&logoColor=black&link=https://instagram.com/marconycaldeira)](https://instagram.com/marconycaldeira) [![GitHub followers](https://img.shields.io/github/followers/marconycaldeira?label=Follow&style=social)](https://github.com/marconycaldeira/?tab=follow) [![Gmail Badge](https://img.shields.io/badge/-marconycaldeira-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:marconycaldeira@gmail.com)](mailto:marconycaldeira@gmail.com) [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-c14438?style=social&logo=whatsapp&logoColor=green)](https://wa.me/+5538991695617) 
 
-<!-- :man_technologist: Personal Site: [anuragsingh.dev](https://anuragsingh.dev) ╼╾ 🐦 Twitter: [ashleymavericks](https://twitter.com/ashlyemavericks) ╼╾ :mailbox_with_mail: Linkedin: [ashlyemavericks](https://www.linkedin.com/in/ashlyemavericks/) -->
+</span>
 
-:wave: Hello! I've been buliding things since I was a kid. I love hardware tweaking and prime numbers - they are just so intriguing. Got my first Raspberry Pi in high school, since then my collection is increasing by every fall. In October 2019, I started a programming club in my college, [@hackclubnmit](https://github.com/hackclub-nmit) with the support of [@hackclub](https://hackclub.com/). You should definitely check it out. I've always been fascinated with programming, trying to learn as much as possible considering myself :spades: jack of all trades. I try to stick by this one-liner - *Implementing Science Fiction*. Besides programming I enjoy :swimmer: swimming, :video_game: gaming and :badminton: professional badminton.
+<h3 align="center">Brazilian Backend Developer</h3>
 
-**marconycaldeira/marconycaldeira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a fan of the idea that it's possible to do a lot with little and I found in programming a way to follow this thought.
 
-Here are some ideas to get you started:
+Study and work with systems analysis and development since 2012, having worked heavily in projects with the PHP ecosystem, Laravel, Codeigniter, CakePHP, Symfony and projects with JavaScript, Node and React.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+I venture into the DevOps culture, making the most of AWS services and containization solutions.
+
+Always keeping on learning and looking for hairy challenges
+
+- 🔭 I’m currently working on my **Assistant**
+
+- 🌱 I’m currently learning **React, AWS, CI/CD, Docker, Terraform, Kubernets, TypeScript, GitHub Actions and Flutter**
+
+- 📫 How to reach me: **marconycaldeira@gmail.com**
+
+- ⚡ What I like to do: **I love chatting and doing totally random things. I like barbecue and travel too**
+
+### Frontend Languages
+![HTML](https://img.shields.io/badge/-HTML-f6f8fa?style=flat&logo=HTML5)
+![CSS](https://img.shields.io/badge/-CSS-f6f8fa?style=flat&logo=CSS3&logoColor=1572B6)
+![JavaScript](https://img.shields.io/badge/-JavaScript-f6f8fa?style=flat&logo=javascript)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-f6f8fa?style=flat&logo=bootstrap&logoColor=563D7C)
+![Next.js](https://img.shields.io/badge/-Next.js-f6f8fa?style=flat&logo=next.js)
+![React](https://img.shields.io/badge/-React-f6f8fa?style=flat&logo=react)
+![Markdown](https://img.shields.io/badge/-Markdown-f6f8fa?style=flat&logo=markdown)
+
+### Backend Languages
+![PHP](https://img.shields.io/badge/-PHP-f6f8fa?style=flat&logo=PHP)
+![Node.js](https://img.shields.io/badge/-Node.js-f6f8fa?style=flat&logo=node.js)
+![MongoDB](https://img.shields.io/badge/-MongoDB-f6f8fa?style=flat&logo=mongodb)
+![SQL](https://img.shields.io/badge/-SQL-f6f8fa?style=flat&logo=MySQL)
+![Laravel](https://img.shields.io/badge/-Laravel-f6f8fa?style=flat&logo=laravel)
+![Lumen](https://img.shields.io/badge/-Lumen-f6f8fa?style=flat&logo=Lumen)
+![Slim](https://img.shields.io/badge/-Slim-f6f8fa?style=flat&logo=slim)
+![Adonisjs](https://img.shields.io/badge/-Adonisjs-f6f8fa?style=flat&logo=adonisjs)
+![Express](https://img.shields.io/badge/-Express-f6f8fa?style=flat&logo=Express)
+![Symfony](https://img.shields.io/badge/-Symfony-f6f8fa?style=flat&logo=symfony)
+![CakePHP](https://img.shields.io/badge/-CakePHP-f6f8fa?style=flat&logo=CakePHP)
+
+### My `.env`
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-f6f8fa?style=flat&logo=Ubuntu)
+![Git](https://img.shields.io/badge/-Git-f6f8fa?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-f6f8fa?style=flat&logo=github)
+![GitLab](https://img.shields.io/badge/-GitLab-f6f8fa?style=flat&logo=gitlab)
+![BitBucket](https://img.shields.io/badge/-BitBucket-f6f8fa?style=flat&logo=bitbucket)
+![Docker](https://img.shields.io/badge/-Docker-f6f8fa?style=flat&logo=docker)
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-f6f8fa?style=flat&logo=visual-studio-code&logoColor=007ACC)
+
