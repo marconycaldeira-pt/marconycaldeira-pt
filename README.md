@@ -1,6 +1,12 @@
-### Hi there 👋
+# 👨🏻‍💻 [Marcony Caldeira](https://github.com/marconycaldeira/marconycaldeira) [@marconycaldeira](https://linkedin.com/in/marconycaldeira)
 
-<!--
+[![Linkedin Badge](https://img.shields.io/badge/-Marcony%20Caldeira-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/marconycaldeira/)](https://www.linkedin.com/in/marconycaldeira/) [![Twitter Badge](http://img.shields.io/badge/-@marconycaldeira-1ca0f1?style=social&logo=twitter&logoColor=blue&link=https://twitter.com/marconycaldeira)](https://twitter.com/marconycaldeira) [![GitHub followers](https://img.shields.io/github/followers/marconycaldeira?label=Follow&style=social)](https://github.com/marconycaldeira/?tab=follow) [![Gmail Badge](https://img.shields.io/badge/-marconycaldeira-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:marconycaldeira@gmail.com)](mailto:marconycaldeira@gmail.com) 
+
+
+<!-- :man_technologist: Personal Site: [anuragsingh.dev](https://anuragsingh.dev) ╼╾ 🐦 Twitter: [ashleymavericks](https://twitter.com/ashlyemavericks) ╼╾ :mailbox_with_mail: Linkedin: [ashlyemavericks](https://www.linkedin.com/in/ashlyemavericks/) -->
+
+:wave: Hello! I've been buliding things since I was a kid. I love hardware tweaking and prime numbers - they are just so intriguing. Got my first Raspberry Pi in high school, since then my collection is increasing by every fall. In October 2019, I started a programming club in my college, [@hackclubnmit](https://github.com/hackclub-nmit) with the support of [@hackclub](https://hackclub.com/). You should definitely check it out. I've always been fascinated with programming, trying to learn as much as possible considering myself :spades: jack of all trades. I try to stick by this one-liner - *Implementing Science Fiction*. Besides programming I enjoy :swimmer: swimming, :video_game: gaming and :badminton: professional badminton.
+
 **marconycaldeira/marconycaldeira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +19,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
